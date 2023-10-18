@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Guru Datta aka pupperemeritus</h1>
-<h3 align="center">I am an AI&DS student looking for work experience. I am interested in systems software, scientific computation(astrophysics), artificial intelligence, natural language processing, linguistics, image processing and digital signal processing. I am currently working on my Google Summer of Code Project on the topic of Astronomy using Unevenly Sampled Data.</h3>
+<h3 align="center">I am an AI&DS student looking for work experience. I am interested in systems software, scientific computation(astrophysics), artificial intelligence, natural language processing, linguistics, image processing and digital signal processing. I completed my Google Summer of Code Project on the topic of Astronomy using Unevenly Sampled Data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pupperemeritus&label=Profile%20views&color=0e75b6&style=flat" alt="pupperemeritus" /> </p>
 
