@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pupperemeritus" alt="pupperemeritus" /></a> </p>
 
-- 🔭 I’m currently working on [stingray](https://github.com/pupperemeritus/stingray)
+- 🔭 I’m currently working on a secret research project 🤫
 
-- 🌱 I’m currently learning **Next.js, Transformers**
+- 🌱 I’m currently learning **Pytorch, Tensorflow, Next.js, Transformers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pupperemeritus/](https://github.com/pupperemeritus/)
 
