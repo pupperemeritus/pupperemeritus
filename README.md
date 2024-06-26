@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/pupperemeritus](https://dev.to/pupperemeritus)
 
-- 💬 Ask me about **Python, Algorithms, Linux, Music, C++ and up and coming frameworks and languages**
+- 💬 Ask me about **Python, Algorithms, Linux, Music, C++, ML, AI and up and coming frameworks and languages**
 
 - ⚡ Fun fact **Been playing guitar since I was 7. You can check out my music on soundcloud at https://soundcloud.com/pupperemeritus?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing and https://linktr.ee/cosmitechts**
 
