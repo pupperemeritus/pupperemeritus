@@ -80,7 +80,7 @@ Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixIn
 ## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupperemeritus&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html,css,vimscript&layout=donut&theme=nord" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupperemeritus&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html,css,vim,lua&layout=donut&theme=nord" alt="Top Languages" />
 </p>
 
 <br>
