@@ -79,28 +79,27 @@ Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixIn
 
 ## 📊 GitHub Stats
 
-
-<br>
-<br>
-
-
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupperemeritus&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html,b&layout=donut&theme=nord" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupperemeritus&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html,b&layout=donut&theme=nord" alt="Top Languages" />
 </p>
 
 <br>
 <br>
+<br>
+<br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pupperemeritus&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&theme=nord" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pupperemeritus&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&theme=nord" alt="GitHub Stats" />
 </p>
 
 
 <br>
 <br>
+<br>
+<br>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pupperemeritus&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pupperemeritus&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
