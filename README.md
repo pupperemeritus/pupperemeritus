@@ -21,7 +21,7 @@ And yeah... I use **Arch** *(Garuda)* btw.
 ## 🔧 Ask Me About
 
 
-**Python**, **C++**, **algorithms**, **Linux**, **machine learning**, **artificial intelligence**, **Haskell**, **up-and-coming frameworks and languages**, **systems software**, **Astrophysics & Astronomy**,  
+**Python**, **C++**, **algorithms**, **Linux**, **machine learning**, **artificial intelligence**, **Haskell**, **up-and-coming frameworks and languages**, **systems software**, **Astrophysics & Astronomy**,
 **scientific computing** (especially in astrophysics), **natural language processing**, **linguistics**, **functional programming**, **music**,  **Rust**, **Go**, **Data Engineering**,
 **Geospatial Image Processing**, **Geospatial AI** ,**image processing**, and **digital signal processing**.
 
