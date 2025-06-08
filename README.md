@@ -20,9 +20,12 @@ And yeah... I use **Arch** *(Garuda)* btw.
 
 ## 🔧 Ask Me About
 
-**Python**, **C++**, **algorithms**, **Linux**, **machine learning**, **artificial intelligence**, **Haskell**, **up-and-coming frameworks and languages**, **systems software**,  
+
+**Python**, **C++**, **algorithms**, **Linux**, **machine learning**, **artificial intelligence**, **Haskell**, **up-and-coming frameworks and languages**, **systems software**, **Astrophysics & Astronomy**,  
 **scientific computing** (especially in astrophysics), **natural language processing**, **linguistics**, **functional programming**, **music**,  **Rust**, **Go**, **Data Engineering**,
-**image processing**, and **digital signal processing**.
+**Geospatial Image Processing**, **Geospatial AI** ,**image processing**, and **digital signal processing**.
+
+In short **nearly the entirety of the sciences**.
 
 ---
 
@@ -35,13 +38,18 @@ I’m a big fan of artists across genres like (Progressive | Other Subgenres) ×
 [Check out my playlists here](https://www.last.fm/user/pupper_emeritus/playlists).
 
 I’m also an avid gamer:  
+
 **Story-driven** titles like *Red Dead Redemption 2*,  *Assasins Creed Series*,
-**Multiplayer** chaos in *Counter-Strike 2*, *Rainbow Six Siege*,  
+
+**Multiplayer** chaos in *Counter-Strike 2*, *Rainbow Six Siege*,
+
 **Builder sims** like *Cities: Skylines*,
+
 **Space games** like *Kerbal Space Program*, *No Mans Sky*, and  
+
 **Strategy** hits like *Civilization VI*.
 
-Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixInsight** to process images.
+Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixInsight** to process images usually taken by my Sony A6300. You can check out my Instagram at [@pup_o_grapher](https://www.instagram.com/pup_o_grapher/)
 
 
 ---
@@ -80,7 +88,7 @@ Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixIn
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pupperemeritus&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pupperemeritus&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
