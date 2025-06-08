@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Been playing guitar since I was 7. You can check out my music on soundcloud at https://soundcloud.com/pupperemeritus?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing and https://linktr.ee/cosmitechts**
 
-### Blogs posts
+<!-- ### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
