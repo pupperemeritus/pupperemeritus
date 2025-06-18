@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m currently diving deep into **Go, functional programming, compiler design, time series data processing, Docker and Kubernetes**.
 
@@ -18,7 +18,7 @@ And yeah... I use **Arch** *(Garuda)* btw.
 
 ---
 
-## 🔧 Ask Me About
+## Ask Me About
 
 
 **Python**, **C++**, **algorithms**, **Linux**, **machine learning**, **artificial intelligence**, **Haskell**, **up-and-coming frameworks and languages**, **systems software**, **Astrophysics & Astronomy**,
@@ -29,7 +29,7 @@ In short **nearly the entirety of the sciences**.
 
 ---
 
-## 🎸 Fun Fact
+## Fun Fact
 
 I’ve been playing guitar since I was 7 — you can check out my music on [SoundCloud](https://soundcloud.com/pupperemeritus) and [Linktree](https://linktr.ee/cosmitechts).
 
@@ -54,7 +54,7 @@ Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixIn
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 **n0mzvp0aw@relay.firefox.com**  
 
@@ -77,7 +77,7 @@ Oh, and I dabble in **astrophotography**, using tools like **Siril** and **PixIn
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pupperemeritus&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&hide=html,css,vim,lua&layout=donut&theme=nord" alt="Top Languages" />
